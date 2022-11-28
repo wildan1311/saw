@@ -70,6 +70,7 @@ $title = "index";
                                         <input type="text" class="form-control" name="gaji">
                                     </div>
                                     <div class="form-group justify-content-end d-flex">
+                                        <a href="formPenilaian.php" class="btn btn-secondary" style="margin-right: 20px;">Process to rating</a>
                                         <input type="submit" class="btn btn-primary" name="submit">
                                     </div>
                                 </form>
