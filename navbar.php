@@ -11,12 +11,21 @@
     <!-- Divider -->
     <hr class="sidebar-divider my-0">
 
+<<<<<<< HEAD
     <!-- Nav Item - Dashboard -->
     <li class="nav-item active">
         <a class="nav-link" href="index.php">
             <i class="fas fa-fw fa-tachometer-alt"></i>
             <span>Dashboard</span></a>
     </li>
+=======
+            <!-- Nav Item - Dashboard -->
+            <li class="nav-item active">
+                <a class="nav-link" href="dashboard.php">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Dashboard</span></a>
+            </li>
+>>>>>>> a2cb180eb40f13bf7b35692cac22ae568eb5748f
 
     <!-- Divider -->
     <hr class="sidebar-divider">
@@ -42,6 +51,7 @@
         </div>
     </li>
 
+<<<<<<< HEAD
     <!-- Nav Item - Utilities Collapse Menu -->
     <li class="nav-item">
         <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseUtilities"
@@ -56,6 +66,37 @@
                 <a class="collapse-item" href="utilities-border.html">Borders</a>
                 <a class="collapse-item" href="utilities-animation.html">Animations</a>
                 <a class="collapse-item" href="utilities-other.html">Other</a>
+=======
+            <!-- Nav Item - Pages Collapse Menu -->
+            
+            <li class="nav-item">
+                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo"
+                    aria-expanded="true" aria-controls="collapseTwo">
+                    <i class="fas fa-fw fa-tasks"></i>
+                    <span>Data</span>
+                </a>
+                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
+                    <div class="bg-white py-2 collapse-inner rounded">
+                        <a class="collapse-item" href="alternatif.php">Alternatif</a>
+                        <a class="collapse-item" href="bobotKriteria.php">Bobot & Kriteria</a>
+                    </div>
+                </div>
+            </li>
+
+            <!-- Nav Item - Utilities Collapse Menu -->
+            <li class="nav-item">
+                <a class="nav-link" href="charts.html">
+                    <i class="fas fa-fw fa-chart-area"></i>
+                    <span>Peserta</span></a>
+            </li>
+
+            <!-- Divider -->
+            <hr class="sidebar-divider">
+
+            <!-- Heading -->
+            <div class="sidebar-heading">
+                Addons
+>>>>>>> a2cb180eb40f13bf7b35692cac22ae568eb5748f
             </div>
         </div>
     </li>
@@ -63,10 +104,14 @@
     <!-- Divider -->
     <hr class="sidebar-divider">
 
+<<<<<<< HEAD
     <!-- Heading -->
     <div class="sidebar-heading">
         Addons
     </div>
+=======
+            <!-- Nav Item - Charts -->
+>>>>>>> a2cb180eb40f13bf7b35692cac22ae568eb5748f
 
     <!-- Nav Item - Pages Collapse Menu -->
     <li class="nav-item">
